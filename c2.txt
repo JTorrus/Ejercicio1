@@ -1,0 +1,5 @@
+On branch feat2
+Changes not staged for commit:
+	modified:   c2.txt
+
+no changes added to commit
